@@ -1,0 +1,33 @@
+.footer {
+    background-color: #EDEDED;
+    padding: 40px 0;
+    color: #F4A81E;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.footer-logo img {
+    max-width: 150px;
+}
+
+.footer-links a {
+    color: #F4A81E;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.footer-social a {
+    color: #D03136;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.footer-text {
+    font-size: 14px;
+}
